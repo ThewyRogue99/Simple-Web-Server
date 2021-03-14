@@ -1,0 +1,13 @@
+﻿  TcpListener.cpp
+C:\C++\WebServerTut\WebServer\TcpListener.cpp(141,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  WebServer.cpp
+C:\C++\WebServerTut\WebServer\WebServer.cpp(39,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\C++\WebServerTut\WebServer\WebServer.cpp(61,15): warning C4244: 'başlatılıyor': 'std::streamoff' - 'int' dönüşümü; veri kaybı olabilir
+  main.cpp
+C:\C++\WebServerTut\WebServer\main.cpp(4,1): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Kod üretiliyor
+  6 of 317 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  WebServer.vcxproj -> C:\C++\WebServerTut\Release\WebServer.exe
